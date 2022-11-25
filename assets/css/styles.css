@@ -72,9 +72,10 @@
   font-size: 50px;
   font-weight: 200;
   letter-spacing: 5px;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
   transform: translate(0, -5px);
   transition: transform 2000ms;
+  color: #043a21;
 }
 
 .section3-logo1{
@@ -211,12 +212,9 @@
   height: 200px;
 }
 
-.footer h1{
-  padding-top: 10px;
-  text-align: center;
-  font-size: 50px;
-  font-weight: 100;
-  letter-spacing: 5px;
+.footer a{
+  text-decoration: none;
+  color: black;
 }
 
 .footer-title{
